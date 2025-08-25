@@ -1,51 +1,48 @@
-# 💻 Welcome to MrNobody-bot's Cyber World 👾
+
+# 👾 Welcome to MrNobody-bot's Cyber World!
 
 ### 🚀 About Me
-Welcome to my digital lair, where I dive deep into **Cyber Security**, **Ethical Hacking**, and **Linux Customization**. I’m a master of **penetration testing** and a **Linux customization** enthusiast. When I’m not hacking, I’m learning **Python**, **JS**, **HTML/CSS**, or perfecting my **web security skills**.
-
-- 🔭 I’m currently working on **penetration testing** and **vulnerability research**.
-- 🌱 Learning **Python** and fine-tuning my **hacker toolkit**.
-- 💻 I specialize in **Linux environments** and customizing **Hypland, i3, GNOME**, and **Nix distros**.
-- 🛠️ Toolkits: **Kali**, **Metasploit**, **Nmap**, **Wireshark**, and much more!
+Welcome to my digital lair, where I dive deep into **Cyber Security**, **Ethical Hacking**, and **Linux Customization**. I’m a **Penetration Tester** and **Linux enthusiast**. I specialize in **web security** and **reverse engineering**. When I'm not hacking, I am perfecting my **Python**, **JavaScript**, and **Linux skills**.
 
 ---
 
-### 🏆 My Hacking Badges 🏅
-Here's what I proudly wear in my hacker gear:
+### 🦸‍♂️ Connect with Me:
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Metasploit Badge](https://img.shields.io/badge/Metasploit-660000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
----
-
-### 💻 My Hacking Journey – Projects
-
-🔓 **Current Projects**:
-- **[Security Scanner](https://github.com/MrNobody-bot/security-scanner)**: A custom Python scanner for vulnerabilities.
-- **[Linux Customizer](https://github.com/MrNobody-bot/linux-customizer)**: A repository of scripts for building your dream Linux environment.
-- **[CTF Challenges](https://github.com/MrNobody-bot/ctf-challenges)**: Solving real-world security challenges.
-
-🔒 **Archived Projects**:
-- **[Web Hacking Challenges](https://github.com/MrNobody-bot/web-hacking-challenges)**: A collection of web app vulnerabilities.
+<div>
+  <a href="https://twitter.com/yourusername"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" width="19.5%" height="120" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" width="19.5%" height="120" alt="LinkedIn"></a>
+  <a href="https://yourpersonalwebsite.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_Your_website.svg" width="22%" height="120" alt="Personal Website"></a>
+  <a href="https://www.youtube.com/channel/yourchannel"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/YouTube_Logo.svg" width="19.5%" height="120" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/yourusername"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Twitch_Logo_2019.svg" width="19.5%" height="120" alt="Twitch"></a>
+</div>
 
 ---
 
-### 🎥 Live Hacker Terminal Animation 🖥️
-Let's bring some **live hacking action**! Here's my **real-time hacker terminal** where you can witness the magic:
+### 🎥 Hero Image
 
-![Hacker Animation](https://media.giphy.com/media/xT9IgzoKnwF6pJvGFu/giphy.gif)
-
----
-
-### 🥳 Fun Facts
-- I customize my **Linux desktop** with **i3** and **GNOME**, often switching between **Hypland** and **Nix** distros.
-- I’m obsessed with **cybersecurity**, especially **cryptography** and **reverse engineering**.
-- When I’m not hacking, I’m either **hiking**, **photography**, or reading up on the latest **cyber threats**.
+<div>
+  <img src="https://yourheroimage.com" width="100%" alt="Hero Image showing thumbs up or down based on dark mode preference">
+</div>
 
 ---
 
-### 🏆 GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrNobody-bot&show_icons=true&count_private=true&hide_title=true)
+### 🚀 My Projects:
+
+<div>
+  <a href="https://github.com/yourusername/yourproject">
+    <picture>
+      <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="your_light_image.jpg">
+      <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="your_light_image_small.jpg">
+      <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="your_dark_image_small.jpg">
+      <img src="your_dark_image.jpg" alt="Project 1" width="50%" title="Project 1">
+    </picture>
+  </a>
+  <a href="https://github.com/yourusername/yourproject2">
+    <picture>
+      <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="your_light_project_image.jpg">
+      <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="your_light_project_image_small.jpg">
+      <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="your_dark_project_image_small.jpg">
+      <img src="your_dark_project_image.jpg" alt="Project 2" width="50%" title="Project 2">
+    </picture>
+  </a>
+</div>
