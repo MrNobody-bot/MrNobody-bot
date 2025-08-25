@@ -1,46 +1,51 @@
-# Hello, I'm MrNobody-bot 👋
+# 💻 Welcome to MrNobody-bot's Cyber World 👾
 
 ### 🚀 About Me
-I'm a passionate Cyber Security enthusiast and Ethical Hacker, diving deep into securing the digital world. I also enjoy customizing Linux environments and learning new technologies along the way. Currently, I'm expanding my skills in **Python** and sharpening my knowledge of **web development**.
+Welcome to my digital lair, where I dive deep into **Cyber Security**, **Ethical Hacking**, and **Linux Customization**. I’m a master of **penetration testing** and a **Linux customization** enthusiast. When I’m not hacking, I’m learning **Python**, **JS**, **HTML/CSS**, or perfecting my **web security skills**.
 
-- 🔭 I’m currently working on **Cyber Security** projects and exploring **penetration testing**.
-- 🌱 I’m learning **Python** and improving my hacking toolkit.
-- 💻 I specialize in **Linux** customization (Hypland, GNOME, i3, Nix distros).
-- 🎓 I’m continuously learning to level up my skills in **Ethical Hacking** and **Security Research**.
+- 🔭 I’m currently working on **penetration testing** and **vulnerability research**.
+- 🌱 Learning **Python** and fine-tuning my **hacker toolkit**.
+- 💻 I specialize in **Linux environments** and customizing **Hypland, i3, GNOME**, and **Nix distros**.
+- 🛠️ Toolkits: **Kali**, **Metasploit**, **Nmap**, **Wireshark**, and much more!
 
-### 🛠️ Skills
-- **Languages**: JavaScript, Python, HTML, CSS
-- **Cyber Security**: Penetration Testing, Ethical Hacking, Vulnerability Assessment
-- **Linux**: Customizing GNOME, i3, Hypland, Nix distros
-- **Tools**: Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap
+### 🌐 My Cyber Security Tools
+Here’s a list of the tools I’m constantly using to hack and protect digital realms:
+- **Pen Testing**: Kali Linux, Burp Suite, Metasploit
+- **Web Hacking**: SQL Injection, XSS, CTFs
+- **Networking**: Wireshark, Nmap, Aircrack-ng
+- **Linux Customization**: Arch, i3, GNOME, NixOS
 
-### 🏆 Badges
+### 🏆 My Hacking Badges 🏅
+Here's what I proudly wear in my hacker gear:
+
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali Badge](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit Badge](https://img.shields.io/badge/Metasploit-660000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap Badge](https://img.shields.io/badge/Nmap-00ADEF?style=for-the-badge&logo=nmap&logoColor=white)
 
-### 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrNobody-bot&show_icons=true&count_private=true&hide_title=true)
+### 💻 My Hacking Journey – Projects
+🔓 **Current Projects**:
+- **[Security Scanner](https://github.com/MrNobody-bot/security-scanner)**: A custom Python scanner for vulnerabilities.
+- **[Linux Customizer](https://github.com/MrNobody-bot/linux-customizer)**: A repository of scripts to help you build your dream Linux environment.
+- **[CTF Challenges](https://github.com/MrNobody-bot/ctf-challenges)**: Solving web security challenges and vulnerabilities.
 
-### 💻 Projects
-- **[Project 1: Security Tool](https://github.com/MrNobody-bot/security-tool)**: A custom Python-based tool for scanning vulnerabilities.
-- **[Project 2: Linux Customization Scripts](https://github.com/MrNobody-bot/linux-scripts)**: A collection of scripts to customize and optimize your Linux environment.
-- **[Project 3: Web Hacking Challenges](https://github.com/MrNobody-bot/web-hacking-challenges)**: A set of CTF challenges focusing on web app vulnerabilities.
+🔒 **Archived Projects**:
+- **[Web Hacking Challenges](https://github.com/MrNobody-bot/web-hacking-challenges)**: A collection of web app vulnerabilities.
 
-### 🥳 Fun Facts
-- I love spending my weekends tweaking Linux distros and building my own customized setups.
-- I’m fascinated by cryptography and reverse engineering.
-- My Linux desktop is a hybrid of i3 and GNOME, with a splash of Hypland.
+### 🎥 Live Hacker Terminal Animation 🖥️
+Let's bring some **live hacking action**! Here's my **real-time hacker terminal**, where you can witness the magic:
 
-### 💬 Let's Connect!
-- Twitter: [@MrNobodyBot](https://twitter.com/MrNobodyBot)
-- LinkedIn: [MrNobody Bot](https://linkedin.com/in/mrnobodybot)
-- Email: [your.email@example.com](mailto:your.unownnoname@gmail.com)
+![Hacker Terminal](https://media.giphy.com/media/xT9IgzoKnwF6pJvGFu/giphy.gif)
 
----
+(You can also upload your own terminal GIF for a more personalized touch. [Hackertyper](https://hackertyper.net/) is a good place to generate these!)
 
-### 🖥️ Hacker Animation
-![Hacker Animation](https://media.giphy.com/media/xT9IgzoKnwF6pJvGFu/giphy.gif)
+### 🎮 Fun Facts
+- I customize my **Linux desktop** with **i3** and **GNOME**, often switching between **Hypland** and **Nix** distros.
+- I’m obsessed with **cybersecurity**, especially **cryptography** and **reverse engineering**.
+- When I’m not hacking, I’m either **hiking**, **photography**, or reading up on the latest **cyber threats**.
+
+### 🥳 Hacking in Style:
+```bash
+echo "Let's hack the planet" > /dev/tty1
+echo "Hacking mode: ON!" >> /dev/tty1
