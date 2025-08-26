@@ -49,13 +49,13 @@ I’m **MrNobody-bot** → an **ethical hacker**, a **Linux wizard**, and a **cy
 
 ### 🚀 **Projects**
 
-- 🔓 **[Exploit & Pentest Tools](https://github.com/yourusername/penetration-testing-tools)**  
+- 🔓 **[Exploit & Pentest Tools](https://github.com/MrNobody-bot/penetration-testing-tools)**  
   Pentest automation scripts & exploits.  
 
-- 🐧 **[Linux Customization Scripts](https://github.com/yourusername/linux-customization-scripts)**  
+- 🐧 **[Linux Customization Scripts](https://github.com/MrNobody-bot/linux-customization-scripts)**  
   Custom Linux configs, ricing & tweaks.  
 
-- 🧩 **[Python Hacking Scripts](https://github.com/yourusername/python-hacking-scripts)**  
+- 🧩 **[Python Hacking Scripts](https://github.com/MrNobody-bot/python-hacking-scripts)**  
   Python scripts for automation & hacking experiments.  
 
 ---
@@ -71,30 +71,30 @@ $ sudo hack_the_planet
 
 ### 📊 **Stats & Activity**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrNobody-bot&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNobody-bot&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=MrNobody-bot&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrNobody-bot&theme=radical)  
 
 ---
 
 ### 🏆 **Trophies**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=6)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MrNobody-bot&theme=radical&no-frame=true&row=1&column=6)  
 
 ---
 
 ### 👁️ **Visitors Counter**
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views)  
+![Visitors](https://komarev.com/ghpvc/?username=MrNobody-bot&color=blue&style=flat-square&label=Profile+Views)  
 
 ---
 
 ### 👾 **Connect with Me**
 
-[![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue?logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![GitHub](https://img.shields.io/badge/GitHub-MrNobody--bot-black?logo=github)](https://github.com/yourusername)  
+[![Twitter](https://img.shields.io/badge/Twitter-@UDAYBHAN5751-blue?logo=twitter&logoColor=white)](https://twitter.com/@UDAYBHAN5751)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/MrNobody-bot)  
+[![GitHub](https://img.shields.io/badge/GitHub-MrNobody--bot-black?logo=github)](https://github.com/MrNobody-bot)  
 
 ---
 
