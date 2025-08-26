@@ -33,7 +33,7 @@ I’m **MrNobody-bot** → an **ethical hacker**, a **Linux wizard**, and a **cy
 > connection established ✅
 ```
 
-![Hacker Gif](https://media1.tenor.com/m/5hp19sa6nigAAAAd/linux-linux-developer.gif)  
+![Hacker Gif](https://media.giphy.com/media/3og0ITChKkfdVOGYTu/giphy.gif)  
 
 ---
 
